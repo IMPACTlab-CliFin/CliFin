@@ -6,6 +6,6 @@ Welcome to CliFin!
    :caption: Contents:
 
    introduction
-   user_guide/index
-   tutorials/index
+   user_guide
+   tutorials
    api_reference
