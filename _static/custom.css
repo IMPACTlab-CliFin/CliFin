@@ -1,11 +1,11 @@
-/* GitHub 아이콘 스타일 조정 */
+/* GitHub 아이콘 스타일 */
 .header-icons a.fa-github {
     color: #333;
     margin-right: 15px;
     font-size: 1.5em;
 }
 
-/* 다크 모드 토글 버튼 및 사이드바 토글 버튼 스타일 조정 */
+/* 다크 모드 토글 및 사이드바 토글 버튼 스타일 */
 .dark-mode-toggle, .sidebar-toggle {
     margin-right: 10px;
 }
