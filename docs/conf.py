@@ -14,16 +14,14 @@ exclude_patterns = []
 
 html_theme = 'furo'
 
-# GitHub 아이콘 및 링크 추가
-# docs/conf.py
-
+# GitHub 아이콘 및 상단 툴바 설정
 html_theme_options = {
     "light_css_variables": {
         "color-brand-primary": "#007BFF",
         "color-brand-content": "#2E2E2E",
     },
-    # 추가: GitHub 아이콘을 상단에 배치하는 설정
-    "header_icons": [
+    "footer_icons": [],  # 하단 아이콘은 제거
+    "header_icons": [  # 상단 툴바에 GitHub 아이콘 추가
         {
             "name": "GitHub",
             "url": "https://github.com/IMPACTlab-CliFin/CliFin",  # GitHub 리포지토리 링크
