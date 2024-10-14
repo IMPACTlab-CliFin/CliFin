@@ -2,10 +2,10 @@ Welcome to CliFin!
 =======================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    introduction
-   user_guide
-   tutorials
+   user_guide/index
+   tutorials/index
    api_reference
