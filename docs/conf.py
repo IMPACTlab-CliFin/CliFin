@@ -2,8 +2,8 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Your Project Name'
-author = 'Your Name'
+project = 'CliFin'
+author = 'IMPACT Lab'
 
 extensions = []
 
