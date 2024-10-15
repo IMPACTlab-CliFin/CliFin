@@ -1,7 +1,6 @@
 Welcome to CliFin!
 =======================
 
-What is CliFin?
 CliFin is a Python framework designed for assessing financial risks in a variety of investment assets in response to climate change.
 The framework is divided into three main parts. 
 
