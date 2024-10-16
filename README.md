@@ -3,7 +3,7 @@ CliFin is a Python framework designed for assessing financial risks in a variety
 The framework is divided into three main parts. 
 1. **CliFin Core** : Embedded domain-specific language (DSL) that allows you to dynamically adapt your model without manual intervention
 2. **CliFin infra** : Performing cash flow projections, risk factor reflection, and asset valuation.
-3. **Datasets** for various types of assets and climate scenario analysis to perform CliFin infra.
+3. **Datasets** : Various types of asset datasets and climate scenario datasets for scenario analysis to perform CliFin infra.
 
 ![Clifin structure](https://github.com/user-attachments/assets/51b0d788-aeeb-4f10-80c9-939d026113f9)
 
