@@ -6,7 +6,7 @@ The framework is divided into three main parts.
 3. **Datasets** : Various types of asset datasets and climate scenario datasets for scenario analysis to perform CliFin infra.
 
 <p align="center">
-  <img align="center" src="/image/Clifin structure.png" width="500px" />
+  <img align="center" src="/image/Clifin structure.png" width="750px" />
 </p>
 <p align="center">
   Fig 1. CliFin Structure
