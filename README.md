@@ -5,7 +5,13 @@ The framework is divided into three main parts.
 2. **CliFin infra** : Performing cash flow projections, risk factor reflection, and asset valuation.
 3. **Datasets** : Various types of asset datasets and climate scenario datasets for scenario analysis to perform CliFin infra.
 
-![Clifin structure](https://github.com/user-attachments/assets/51b0d788-aeeb-4f10-80c9-939d026113f9)
+<p align="center">
+  <img align="center" src="/image/Clifin structure.png" width="500px" />
+</p>
+<p align="center">
+  Fig 1. CliFin Structure
+</p>
+
 
 ## What features CliFin can provide?
 CliFin offers several advanced features specifically designed to address the complexities of climate-related financial risk assessment:
