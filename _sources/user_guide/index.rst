@@ -6,5 +6,5 @@ This section provides a user guide.
 .. toctree::
    :maxdepth: 1
 
-   Introduction
-   Installation
+   introduction
+   installation
