@@ -34,3 +34,9 @@ html_theme_options = {
 html_show_sourcelink = True
 html_static_path = ['_static']
 html_css_files = ['custom.css']
+
+extensions = [
+    'sphinx.ext.autosectionlabel',
+    # 필요한 다른 확장들...
+]
+
