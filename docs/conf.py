@@ -3,7 +3,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 project = 'CliFin'
-author = 'IMPACT Lab'
+author = 'IMPACT Lab, Dr. Wonchan Lee'
 
 extensions = []
 
